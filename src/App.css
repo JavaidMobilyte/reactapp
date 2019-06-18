@@ -1,0 +1,16 @@
+.app {
+  background: rgb(232, 255, 255);
+  height: 100vh;
+}
+.tweet {
+  border: 2px solid rgb(40, 102, 102);
+  float: center;
+  background: white;
+  font-size: 18;
+  justify-content: center;
+  align-items: center;
+
+  padding: 20px;
+  height: 120px;
+  widows: 200px;
+}
